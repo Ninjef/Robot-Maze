@@ -7,4 +7,4 @@ When robot.html is opened in a browser, a maze graphic is generated, and the rob
 - The robot's relationship to the maze
 - Available interactions between the user and the robot
 - Robot pathfinding
-- What happens when the robot reaches the exit
+- Success state
