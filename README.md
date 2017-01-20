@@ -4,6 +4,8 @@ When robot.html is opened in a browser, a maze graphic is generated, and the rob
 
 # What I wrote (JavaScript):
 - The structure of the maze
+- The maze object
+- The robot object
 - The robot's relationship to the maze
 - Available interactions between the user and the robot
   - Placing robot in maze
