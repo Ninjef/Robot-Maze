@@ -10,6 +10,5 @@ When robot.html is opened in a browser a maze graphic is generated and a robot c
   - Turning robot
   - Can move forward?
   - Place in maze
-  - Exit maze
 - Robot pathfinding
 - Success state
