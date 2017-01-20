@@ -8,7 +8,7 @@ When robot.html is opened in a browser a maze graphic is generated and a robot c
 - Available interactions between the user and the robot
   - Placing robot in maze
   - Turning robot
-  - Can move forward?
-  - Place in maze
+  - Moving robot forward
+  - Automatically exiting the maze
 - Robot pathfinding
 - Success state
