@@ -9,5 +9,5 @@ When robot.html is opened in a browser, a maze graphic is generated, and the rob
 - Robot pathfinding
 - What happens when the robot reaches the exit
 
-What I did not write:
+# What I did not write:
 - The css that makes the program visible and interactive.
